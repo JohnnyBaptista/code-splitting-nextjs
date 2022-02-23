@@ -1,0 +1,16 @@
+
+button {
+    width: 150px;
+    height: 55px;
+    background-color: lightblue;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    outline: none;
+    border: none;
+    font-size: large;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
